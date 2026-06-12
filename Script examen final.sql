@@ -1,0 +1,1 @@
+SELECT * FROM siu.tbl_facultades;
