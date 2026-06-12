@@ -1,0 +1,101 @@
+commit b3c09c30aaba1e1af11da35a8782784b3078d1a3
+Author: GERBER ALEXANDER ASTURIAS TEJAXÚN <gasturiast@miumg.edu.gt>
+Date:   Mon May 18 21:30:10 2026 -0600
+
+    Se implementó bitacora en costos fases y recepcion material
+
+commit c60dffcbf55face7df959993de9bab8089797318
+Author: GERBER ALEXANDER ASTURIAS TEJAXÚN <gasturiast@miumg.edu.gt>
+Date:   Sat May 16 22:20:19 2026 -0600
+
+    Correccion del formulario de costo fase
+
+commit fe0c6e16a0f940ab83272ea1657ddbdc98d3522b
+Author: GERBER ALEXANDER ASTURIAS TEJAXÚN <gasturiast@miumg.edu.gt>
+Date:   Sat May 9 00:54:14 2026 -0600
+
+    Encabezado, reportes y ayudas
+
+commit 13d5c9aebd0d6670cf2c3f5dfb2ea1717a5c7b3f
+Author: GERBER ALEXANDER ASTURIAS TEJAXÚN <gasturiast@miumg.edu.gt>
+Date:   Thu May 7 21:36:20 2026 -0600
+
+    Validaciones y calculo de fechas para plan de produccion
+
+commit d5d9eacce8fd87ffb6d89ddacc12b33bba7748cf
+Author: GERBER ALEXANDER ASTURIAS TEJAXÚN <gasturiast@miumg.edu.gt>
+Date:   Thu May 7 09:53:58 2026 -0600
+
+    Diseño y funcionalidad de orden de produccion
+
+commit 84fcdbf2549ac70334b896282f584938fd3d17ed
+Merge: da283c7 68065eb
+Author: GERBER ALEXANDER ASTURIAS TEJAXÚN <gasturiast@miumg.edu.gt>
+Date:   Thu May 7 09:52:05 2026 -0600
+
+    Merge branch 'main' of https://github.com/Natareno2124/is2k26pf
+
+commit da283c778aafd57d964e13d19fcba5ae22be5558
+Merge: b5f80b3 980bce6
+Author: GERBER ALEXANDER ASTURIAS TEJAXÚN <gasturiast@miumg.edu.gt>
+Date:   Wed May 6 22:22:15 2026 -0600
+
+    Merge branch 'main' of https://github.com/Natareno2124/is2k26pf
+
+commit 722b9a625ee4122539ec8d7318c6da87cc698c3d
+Author: GERBER ALEXANDER ASTURIAS TEJAXÚN <gasturiast@miumg.edu.gt>
+Date:   Sun May 3 01:27:30 2026 -0600
+
+    Implementación de costos
+
+commit 547412565cee10fa45902ea4123b7463bf5f65e2
+Merge: 17f6a2c 6e2da2f
+Author: GERBER ALEXANDER ASTURIAS TEJAXÚN <gasturiast@miumg.edu.gt>
+Date:   Sun May 3 00:55:54 2026 -0600
+
+    Merge branch 'main' of https://github.com/Natareno2124/is2k26pf
+
+commit 468998c2d303ca3d0e8b46a7f80a0db1714cf6e9
+Merge: ed3ba85 353b2ae
+Author: GERBER ALEXANDER ASTURIAS TEJAXÚN <gasturiast@miumg.edu.gt>
+Date:   Thu Apr 30 07:04:15 2026 -0600
+
+    Merge branch 'main' of https://github.com/Natareno2124/is2k26pf into Estandarización_y_Costos
+
+commit ed3ba85d4e9fdd0c20864be9a37560cd04d84fe5
+Author: GERBER ALEXANDER ASTURIAS TEJAXÚN <gasturiast@miumg.edu.gt>
+Date:   Thu Apr 30 00:15:33 2026 -0600
+
+    Estandarización de plan y orden, además form de tipo costo y costo de fase
+
+commit 230404b924759217cb0b89ae2f0c7d6d86e97594
+Author: GERBER ALEXANDER ASTURIAS TEJAXÚN <gasturiast@miumg.edu.gt>
+Date:   Sun Apr 12 02:20:56 2026 -0600
+
+    Transaccional Plan y orden de Produccion
+
+commit c511117d312f2dee16d27547dc6bf6aa8c88cf51
+Author: GERBER ALEXANDER ASTURIAS TEJAXÚN <gasturiast@miumg.edu.gt>
+Date:   Sun Mar 29 00:22:30 2026 -0600
+
+    Mantenimiento Estado Plan de produccion
+
+commit be82de7f64141a75817bc8b232619fed0947148c
+Author: GERBER ALEXANDER ASTURIAS TEJAXÚN <gasturiast@miumg.edu.gt>
+Date:   Sat Feb 21 22:17:36 2026 -0600
+
+    Mantenimiento sedes
+
+commit 2e5956d255f4ddcaaec769468d8735131077b69c
+Merge: 955fb18 b553f63
+Author: GERBER ALEXANDER ASTURIAS TEJAXÚN <gasturiast@miumg.edu.gt>
+Date:   Sat Feb 21 21:27:47 2026 -0600
+
+    Merge branch 'main' of https://github.com/Natareno2124/is2k26pf into Sedes_Gerber
+
+commit 955fb18627e0419f176ca876df7a69299536f3cc
+Merge: 21f3985 70cd38b
+Author: GERBER ALEXANDER ASTURIAS TEJAXÚN <gasturiast@miumg.edu.gt>
+Date:   Fri Feb 20 22:32:13 2026 -0600
+
+    Merge branch 'main' of https://github.com/Natareno2124/is2k26pf
